@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pioneer.mk
+    $(LOCAL_DIR)/lmodroid_pioneer.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pioneer-user \
-    lineage_pioneer-userdebug \
-    lineage_pioneer-eng
+    lmodroid_pioneer-user \
+    lmodroid_pioneer-userdebug \
+    lmodroid_pioneer-eng
