@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_pioneer.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_pioneer-user \
-    lmodroid_pioneer-userdebug \
-    lmodroid_pioneer-eng
